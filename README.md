@@ -35,3 +35,6 @@ line-editor/
 ├── document.txt
 ├── HELP.md
 └── README.md
+## Program Output
+
+![Line Editor Program Output](line-editor-result.png)
